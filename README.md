@@ -36,7 +36,7 @@ The goal of this challenge is to:
 | Day 2 | Data Types,Numbers,Operators,Type Conversion,f-strings| ✅ |
 | Day 3 | Conditional Statements,Logical operators,Code blocks and scope |✅ |
 | Day 4 | Randomisation and Python lists|✅ |
-| Day 5 |........ |  |
+| Day 5 |........ |⏳|
 
 ---
 
