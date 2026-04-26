@@ -32,12 +32,11 @@ The goal of this challenge is to:
 
 | Day | Topic | Status |
 |-----|------|--------|
-| Day 1 | Introduction & Setup | ✅ |
-| Day 2 | Variables & Data Types | ✅ |
-| Day 3 | Conditional Statements |✅ |
-| Day 3 | Conditional Statements |✅ |
-| Day 4 | Loops | ✅ |
-| ... | ... | ... |
+| Day 1 | Printing,Commenting,Debugging,String Manipulation and Variables | ✅ |
+| Day 2 | Data Types,Numbers,Operators,Type Conversion,f-strings| ✅ |
+| Day 3 | Conditional Statements,Logical operators,Code blocks and scope |✅ |
+| Day 4 | Randomisation and Python lists|✅ |
+|_Day 5 |........ |  |
 
 ---
 
