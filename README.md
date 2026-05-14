@@ -39,6 +39,9 @@ The goal of this challenge is to:
 | Day 5 | For loops, Range and Codeblocks |✅|
 | Day 6 | Functions and modules |✅|
 | Day 7 | Loops, String, List, Conditional statement |✅|
+| Day 8 | Function parameters |✅|
+| Day 9 | Dictonaries and nesting |✅|
+| Day 10 | Functions with output |✅|
 
 ---
 
